@@ -26,6 +26,14 @@
     core-js "^2.6.5"
     regenerator-runtime "^0.13.2"
 
+"@bugfix/mobiledoc-kit@^0.11.2-ghost.5":
+  version "0.11.2-ghost.5"
+  resolved "https://registry.yarnpkg.com/@bugfix/mobiledoc-kit/-/mobiledoc-kit-0.11.2-ghost.5.tgz#6ae1d55f8bb32d79a87b35d8ea3abdf78f1cd821"
+  integrity sha512-1rSBBEWI7ErsCxWzT3bYpvv722Wf2+Ah4g9xNmX3jt0Cjp3LEbkGXpc47mu48yKC+zAjmF1o2qPPZF6eeino8Q==
+  dependencies:
+    mobiledoc-dom-renderer "0.6.5"
+    mobiledoc-text-renderer "0.3.2"
+
 "@ember-data/rfc395-data@^0.0.4":
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/@ember-data/rfc395-data/-/rfc395-data-0.0.4.tgz#ecb86efdf5d7733a76ff14ea651a1b0ed1f8a843"
