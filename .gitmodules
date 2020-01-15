@@ -3,4 +3,4 @@
 	url = ../../TryGhost/Casper.git
 [submodule "core/client"]
 	path = core/client
-	url = https://github.com/ololoken/Ghost-Admin.git
+	url = git@github.com:divisey/Ghost-Admin.git
